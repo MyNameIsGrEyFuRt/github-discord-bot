@@ -1,2 +1,0 @@
-# github-discord-bot
-asd
